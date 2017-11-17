@@ -5,6 +5,10 @@ body {
   background-color: black;
   opacity: 0.9;
 }
+.general{
+  display: flex;
+  margin: 0 auto;
+}
 .pagehead {
   background-color: black;
   height: 69px;
